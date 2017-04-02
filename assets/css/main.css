@@ -2779,7 +2779,7 @@
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 40%;
+			width: 33.333%;
 		}
 
 			.tiles article .image {
@@ -2853,10 +2853,6 @@
 				opacity: 0;
 			}
 
-			.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
-				width: 60%;
-			}
-
 			.tiles article:nth-child(6n - 5):before {
 				background-color: #6fc3df;
 			}
@@ -2879,10 +2875,6 @@
 
 			.tiles article:nth-child(6n):before {
 				background-color: #87c5a4;
-			}
-
-			.tiles article.red:before {
-				background-color: #87c5a4!important;
 			}
 
 		@media screen and (max-width: 1280px) {
