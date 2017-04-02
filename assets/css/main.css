@@ -2881,6 +2881,10 @@
 				background-color: #87c5a4;
 			}
 
+			.tiles article.red:before {
+				background-color: #87c5a4;
+			}
+
 		@media screen and (max-width: 1280px) {
 
 			.tiles article {
