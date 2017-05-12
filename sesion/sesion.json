@@ -1,0 +1,28 @@
+[
+  {
+    "nombre": "Spring time",
+    "modelo": "Angeles",
+    "fotos": 4
+  },
+  {
+    "nombre": "Roller time",
+    "modelo": "Laura",
+    "fotos": 1
+  },
+  {
+    "nombre": "Otro1",
+    "modelo": "Otro1"
+  },
+  {
+    "nombre": "Otro2",
+    "modelo": "Otro2"
+  },
+  {
+    "nombre": "Otro3",
+    "modelo": "Otro3"
+  },
+  {
+    "nombre": "Otro4",
+    "modelo": "Otro4"
+  }
+]
