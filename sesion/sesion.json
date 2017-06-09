@@ -1,4 +1,10 @@
 [
+  
+  {
+    "nombre": "Reflex time",
+    "modelo": "Claudia",
+    "fotos": 4
+  },
   {
     "nombre": "Spring time",
     "modelo": "Angeles",
@@ -13,10 +19,5 @@
     "nombre": "Stripes time",
     "modelo": "Alena",
     "fotos": 2
-  },
-  {
-    "nombre": "Reflex time",
-    "modelo": "Claudia",
-    "fotos": 4
   }
 ]
