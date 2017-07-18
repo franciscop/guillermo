@@ -1,5 +1,9 @@
 [
-  
+  {
+    "nombre": "Pineapple time",
+    "modelo": "Helena",
+    "fotos": 5
+  }, 
   {
     "nombre": "Reflex time",
     "modelo": "Claudia",
