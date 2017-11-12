@@ -24,5 +24,10 @@
     "modelo": "Angeles",
     "fotos": 4
   },
+      {
+    "nombre": "Retrato/Portrait",
+    "modelo": "",
+    "fotos": 3
+  },
   
 ]
