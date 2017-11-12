@@ -1,37 +1,28 @@
 [
      {
-    "nombre": "Festival Tour time",
-    "modelo": "Jazmín",
+    "nombre": "Retrato/Portrait",
+    "modelo": "",
     "fotos": 3
   },
    {
-    "nombre": "@Norkinas",
-    "modelo": "Bea",
+    "nombre": "Moda/Fashion",
+    "modelo": "",
     "fotos": 3
   },
   {
-    "nombre": "Pineapple time",
-    "modelo": "Helena",
+    "nombre": "Lifestyle",
+    "modelo": "",
     "fotos": 5
   },
   {
-    "nombre": "Reflex time",
-    "modelo": "Claudia",
+    "nombre": "Trabajos/Commissions",
+    "modelo": "",
     "fotos": 4
   },
   {
-    "nombre": "Spring time",
+    "nombre": "Personal",
     "modelo": "Angeles",
     "fotos": 4
   },
-  {
-    "nombre": "Roller time",
-    "modelo": "Laura",
-    "fotos": 1
-  },
-  {
-    "nombre": "Stripes time",
-    "modelo": "Alena",
-    "fotos": 2
-  }
+  
 ]
